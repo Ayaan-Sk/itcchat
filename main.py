@@ -8,7 +8,7 @@ app = Flask(__name__)  # ← FIXED: was 'main = Flask(__name__)'
 # ─────────────────────────────────────────────
 #  CONFIG
 # ─────────────────────────────────────────────
-WHATSAPP_TOKEN  = "EAApIEQZAK9HoBQzG3SUtYkHYlDoJAKf98rJICDhazUVPZA4wt7zf8lsbjFSCDNssaZAtCdZAIVZBN4YTYPA5EY1j1EDwHL016EyhXV7ZAEGaEYnO6yd5MPOjNMHLGVUwaClwuJ3nw5dpUZCAokccAggbWspJZAsRv1vjRBcRmOUKDhZBZAnKCH1Aq691zK1npdk5Sr6sVuftJBczVBsZApXfobmrz11udwNMSrdCwin2J8zHag3qkXCB7jhC0xedZA8ZBs0VfPV2fCAuPtIKklYwFQCn4wDH5"       # ⚠️ Reset your old token in Meta Dashboard!
+WHATSAPP_TOKEN  = "EAApIEQZAK9HoBQ8EUwI0RgYkTl804d9MVjH7XAfHwkyEL1YFm48zABWPpMI15E3CxT9XNkoROeZCQJChy5cDsHykErFZAD4VondnGKfQa1BjrlEnq4FHsF8y18yFLQqkD5G9mLdpfzT8Yhda7qZAfCvNObBY5qIfj5oWp57jyk4zIZBr89SIUXIwUT6V7wTehrBUUHPElJB6vjJyutnWmVenxvroDdPEEtOTrBq2s9Dp36AJgGea6JsnZC6V6iOuyxox1n76ZAQKUL1aK9lVDJcsWZAUYr8ZD"       # ⚠️ Reset your old token in Meta Dashboard!
 PHONE_NUMBER_ID = "1020886211104440"
 VERIFY_TOKEN    = "itc_verify_123"
 AGENT_NUMBER    = "919823387993"               # ← FIXED: removed +, spaces (must be digits only)
